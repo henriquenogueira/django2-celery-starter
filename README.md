@@ -10,7 +10,7 @@ Instructions
 ------------
 Create a django project:
 
-    django-admin startproject --template= --extension=py,sh,md,env <project_name>
+    django-admin startproject --template=https://goo.gl/UAi8Bd --extension=py,sh,md,env <project_name>
   
 Go into the project directory:
 
