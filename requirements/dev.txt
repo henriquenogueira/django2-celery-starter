@@ -1,0 +1,4 @@
+-r base.txt
+django-debug-toolbar==1.9.1
+django-extensions==2.0.6
+ipython
